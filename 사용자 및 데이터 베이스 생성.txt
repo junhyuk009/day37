@@ -1,0 +1,4 @@
+# postgres=# create user day37 with password 'day37';
+# CREATE ROLE
+# postgres=# create database day37 with owner=day37;
+# CREATE DATABASE
